@@ -1,0 +1,2 @@
+# AMD project
+Netflix clone 
